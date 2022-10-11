@@ -1,7 +1,6 @@
 # 💫About Me :
-Enthusiastic engineering graduate with good knowledge in 
-coding and design. Proficient Java, SQL, HTML, CSS, JavaScript, 
-and DBMS. Ability to learn new softwares and technologies quickly.
+Enthusiastic engineering graduate with good knowledge in coding and design. 
+Proficient Java & SQL Ability to learn new softwares and technologies quickly.
 Capability to work in teams by providing valuable support.
 
 
