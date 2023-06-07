@@ -1,7 +1,13 @@
 # 💫About Me :
-Enthusiastic engineering graduate with good knowledge in coding and design. 
-Proficient Java & SQL Ability to learn new softwares and technologies quickly.
-Capability to work in teams by providing valuable support.
+Hey there! I'm a fresher graduate and a passionate Java developer skilled in Java, ReactJS, Git, Spring Boot, Linux, and Hibernate. I have completed a Java Full Stack Development course from Qspider Pune, where I gained experience in building robust web applications.
+
+During my 8-month software developer internship, I acquired practical knowledge and contributed to real-world projects. I have a strong enthusiasm for exploring new technologies and staying up-to-date in the field. My commitment to continuous learning enables me to adapt quickly and deliver high-quality results.
+
+When I'm not coding, I enjoy listening to music and constantly seeking new knowledge. I believe that a well-rounded approach enhances creativity and problem-solving abilities.
+
+If you're interested in collaborating on innovative projects or discussing software development opportunities, I would be delighted to connect with you. Together, we can create amazing solutions!
+
+Thank you for visiting my profile. I look forward to expanding my network and connecting with like-minded professionals.
 
 
 ## 🌐Socials
